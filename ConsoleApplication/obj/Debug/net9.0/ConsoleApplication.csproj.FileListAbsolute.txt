@@ -12,3 +12,4 @@ C:\Users\RINGROW\Desktop\dcit318-assignment1-11116870\ConsoleApplication\obj\Deb
 C:\Users\RINGROW\Desktop\dcit318-assignment1-11116870\ConsoleApplication\obj\Debug\net9.0\ConsoleApplication.pdb
 C:\Users\RINGROW\Desktop\dcit318-assignment1-11116870\ConsoleApplication\obj\Debug\net9.0\ConsoleApplication.genruntimeconfig.cache
 C:\Users\RINGROW\Desktop\dcit318-assignment1-11116870\ConsoleApplication\obj\Debug\net9.0\ref\ConsoleApplication.dll
+C:\Users\RINGROW\Desktop\dcit318-assignment1-11116870\ConsoleApplication\obj\Debug\net9.0\ConsoleApplication.sourcelink.json
