@@ -10,7 +10,8 @@ namespace HelloWorld
             {
                 Console.WriteLine("\n==== Main Menu ====");
                 Console.WriteLine("1. Grade Calculator");
-                Console.WriteLine("2. Exit");
+                Console.WriteLine("2. Ticket Price Calculator");
+                Console.WriteLine("3. Exit");
                 Console.Write("Select an option: ");
                 string? input = Console.ReadLine();
 
@@ -21,6 +22,10 @@ namespace HelloWorld
                         gradeCalculator.Run();
                         break;
                     case "2":
+                        var ticketPriceCalculator = new TicketPriceCalculator();
+                        ticketPriceCalculator.Run();
+                        break;
+                    case "3":
                         Console.WriteLine("Exiting application. Goodbye!");
                         return;
                     default:
